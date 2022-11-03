@@ -233,6 +233,7 @@ ViewComponent is built by over a hundred members of the community, including:
 * [Podia](https://www.podia.com/)
 * [PrintReleaf](https://www.printreleaf.com/)
 * [Project Blacklight](http://projectblacklight.org/)
+* [GetBlock](https://getblock.io)
 * [QuickNode](https://www.quicknode.com/)
 * [Shogun](https://getshogun.com/)
 * [Spina CMS](https://spinacms.com/)
